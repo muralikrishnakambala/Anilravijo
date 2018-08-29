@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sample">
+<test name="test_chrome">
+<classes>
+<class name="Selenium.Listener_sam">
+</class>
+</classes>
+</test>
+</suite>
